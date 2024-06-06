@@ -1,0 +1,15 @@
+C:\Users\Omer\source\repos\FlightProject\Core\FlightProject.Application\bin\Debug\net8.0\FlightProject.Application.deps.json
+C:\Users\Omer\source\repos\FlightProject\Core\FlightProject.Application\bin\Debug\net8.0\FlightProject.Application.dll
+C:\Users\Omer\source\repos\FlightProject\Core\FlightProject.Application\bin\Debug\net8.0\FlightProject.Application.pdb
+C:\Users\Omer\source\repos\FlightProject\Core\FlightProject.Application\bin\Debug\net8.0\FlightProject.Domain.dll
+C:\Users\Omer\source\repos\FlightProject\Core\FlightProject.Application\bin\Debug\net8.0\FlightProject.Domain.pdb
+C:\Users\Omer\source\repos\FlightProject\Core\FlightProject.Application\obj\Debug\net8.0\FlightProject.Application.csproj.AssemblyReference.cache
+C:\Users\Omer\source\repos\FlightProject\Core\FlightProject.Application\obj\Debug\net8.0\FlightProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\source\repos\FlightProject\Core\FlightProject.Application\obj\Debug\net8.0\FlightProject.Application.AssemblyInfoInputs.cache
+C:\Users\Omer\source\repos\FlightProject\Core\FlightProject.Application\obj\Debug\net8.0\FlightProject.Application.AssemblyInfo.cs
+C:\Users\Omer\source\repos\FlightProject\Core\FlightProject.Application\obj\Debug\net8.0\FlightProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\FlightProject\Core\FlightProject.Application\obj\Debug\net8.0\FlightPr.E60FC329.Up2Date
+C:\Users\Omer\source\repos\FlightProject\Core\FlightProject.Application\obj\Debug\net8.0\FlightProject.Application.dll
+C:\Users\Omer\source\repos\FlightProject\Core\FlightProject.Application\obj\Debug\net8.0\refint\FlightProject.Application.dll
+C:\Users\Omer\source\repos\FlightProject\Core\FlightProject.Application\obj\Debug\net8.0\FlightProject.Application.pdb
+C:\Users\Omer\source\repos\FlightProject\Core\FlightProject.Application\obj\Debug\net8.0\ref\FlightProject.Application.dll

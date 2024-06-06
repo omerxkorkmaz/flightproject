@@ -1,0 +1,11 @@
+C:\Users\Omer\source\repos\FlightProject\Core\FlightProject.Domain\bin\Debug\net8.0\FlightProject.Domain.deps.json
+C:\Users\Omer\source\repos\FlightProject\Core\FlightProject.Domain\bin\Debug\net8.0\FlightProject.Domain.dll
+C:\Users\Omer\source\repos\FlightProject\Core\FlightProject.Domain\bin\Debug\net8.0\FlightProject.Domain.pdb
+C:\Users\Omer\source\repos\FlightProject\Core\FlightProject.Domain\obj\Debug\net8.0\FlightProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omer\source\repos\FlightProject\Core\FlightProject.Domain\obj\Debug\net8.0\FlightProject.Domain.AssemblyInfoInputs.cache
+C:\Users\Omer\source\repos\FlightProject\Core\FlightProject.Domain\obj\Debug\net8.0\FlightProject.Domain.AssemblyInfo.cs
+C:\Users\Omer\source\repos\FlightProject\Core\FlightProject.Domain\obj\Debug\net8.0\FlightProject.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Omer\source\repos\FlightProject\Core\FlightProject.Domain\obj\Debug\net8.0\FlightProject.Domain.dll
+C:\Users\Omer\source\repos\FlightProject\Core\FlightProject.Domain\obj\Debug\net8.0\refint\FlightProject.Domain.dll
+C:\Users\Omer\source\repos\FlightProject\Core\FlightProject.Domain\obj\Debug\net8.0\FlightProject.Domain.pdb
+C:\Users\Omer\source\repos\FlightProject\Core\FlightProject.Domain\obj\Debug\net8.0\ref\FlightProject.Domain.dll

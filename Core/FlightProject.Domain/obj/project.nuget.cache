@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CXDaoixW/ck=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Omer\\source\\repos\\FlightProject\\Core\\FlightProject.Domain\\FlightProject.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Omer\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
